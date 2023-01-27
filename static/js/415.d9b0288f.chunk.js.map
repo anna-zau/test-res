@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/415.d9b0288f.chunk.js","mappings":"4HAUA,UAVa,WACX,OACE,4BACE,iCACA,sCACA,iDAGL,C","sources":["pages/Home.jsx"],"sourcesContent":["const Home = () => {\n  return (\n    <div>\n      <h1>Hi!</h1>\n      <h2>I'm Anna</h2>\n      <p>Front-End Developer</p>\n    </div>\n  );\n};\n\nexport default Home;\n"],"names":[],"sourceRoot":""}
