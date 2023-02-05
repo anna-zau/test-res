@@ -1,0 +1,1 @@
+{"version":3,"file":"static/js/803.f088488e.chunk.js","mappings":"4HAQA,UARe,WACb,OACE,+BACE,oCAGL,C","sources":["pages/Skills.jsx"],"sourcesContent":["const Skills = () => {\n  return (\n    <>\n      <div>Hello</div>\n    </>\n  );\n};\n\nexport default Skills;\n"],"names":[],"sourceRoot":""}
