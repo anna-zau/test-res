@@ -2,11 +2,6 @@ import { lazy } from 'react';
 
 import { Routes, Route } from 'react-router-dom';
 
-// import { Home } from '../pages/Home';
-// import { AboutMe } from '../pages/AboutMe';
-// import { Skills } from '../pages/Skills';
-// import { Portfolio } from '../pages/Portfolio';
-// import { ContactMe } from '../pages/ContactMe';
 import { SharedLayout } from './SharedLayuot/SharedLayout';
 
 const Home = lazy(() => import('../pages/Home'));
@@ -14,6 +9,7 @@ const AboutMe = lazy(() => import('../pages/AboutMe'));
 const Skills = lazy(() => import('../pages/Skills'));
 const Portfolio = lazy(() => import('../pages/Portfolio'));
 const ContactMe = lazy(() => import('../pages/ContactMe'));
+const NotFround = lazy(() => import('../pages/404'));
 
 export const App = () => {
   return (
@@ -25,6 +21,7 @@ export const App = () => {
           <Route path="/skills" element={<Skills />} />
           <Route path="/portfolio" element={<Portfolio />} />
           <Route path="/contact-me" element={<ContactMe />} />
+          <Route path="*" element={<NotFround />} />
         </Route>
       </Routes>
     </>
