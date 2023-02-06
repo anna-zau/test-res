@@ -1,7 +1,6 @@
 import { Container, Section } from 'styles/common.styled';
 import { BsPatchCheck } from 'react-icons/bs';
 import softSkills from '../../static/softSkills.json';
-import techSkills from '../../static/techSkills.json';
 
 import tech from '../../assets/icons/tech.svg';
 import soft from '../../assets/icons/soft-skills.svg';
