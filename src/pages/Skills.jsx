@@ -1,7 +1,9 @@
+import { SkillsInfo } from 'components/SkillsInfo/SkillsInfo';
+
 const Skills = () => {
   return (
     <>
-      <div>Hello</div>
+      <SkillsInfo />
     </>
   );
 };
