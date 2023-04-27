@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/301.6798defd.chunk.js","mappings":"4HAIA,UAJkB,WAChB,OAAO,sCACR,C","sources":["pages/ContactMe.jsx"],"sourcesContent":["const ContactMe = () => {\n  return <div>ContactMe</div>;\n};\n\nexport default ContactMe;\n"],"names":[],"sourceRoot":""}

@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/124.14a539c1.chunk.js","mappings":"4HAIA,UAJgB,WACd,OAAO,oCACR,C","sources":["pages/AboutMe.jsx"],"sourcesContent":["const AboutMe = () => {\n  return <div>AboutMe</div>;\n};\n\nexport default AboutMe;\n"],"names":[],"sourceRoot":""}

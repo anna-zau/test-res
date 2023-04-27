@@ -1,1 +1,0 @@
-{"version":3,"file":"static/js/564.de89122e.chunk.js","mappings":"4HAIA,UAJkB,WAChB,OAAO,sCACR,C","sources":["pages/Portfolio.jsx"],"sourcesContent":["const Portfolio = () => {\n  return <div>Portfolio</div>;\n};\n\nexport default Portfolio;\n"],"names":[],"sourceRoot":""}
