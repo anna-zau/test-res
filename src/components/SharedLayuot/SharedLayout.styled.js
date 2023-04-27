@@ -58,3 +58,10 @@ export const Navlink = styled(NavLink)`
     border: 0;
   }
 `;
+
+export const Wrapper = styled.div`
+  display: block;
+  margin: 0 auto;
+  padding: 100px;
+  max-width: 300px;
+`;

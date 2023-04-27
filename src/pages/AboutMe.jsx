@@ -1,5 +1,7 @@
+import { MyInfo } from 'components/MyInfo/MyInfo';
+
 const AboutMe = () => {
-  return <div>AboutMe</div>;
+  return <MyInfo />;
 };
 
 export default AboutMe;

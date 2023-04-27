@@ -1,6 +1,8 @@
 import { Outlet } from 'react-router-dom';
 import { Suspense } from 'react';
 import { FiMenu } from 'react-icons/fi';
+
+import { Rings } from 'react-loader-spinner';
 import { Container } from 'styles/common.styled';
 
 import {
@@ -9,6 +11,7 @@ import {
   Navigation,
   MobileMenu,
   Navlink,
+  Wrapper,
 } from './SharedLayout.styled';
 
 export const SharedLayout = () => {
@@ -32,7 +35,23 @@ export const SharedLayout = () => {
           </Navigation>
         </Header>
       </Container>
-      <Suspense fallback={<div>Loading page...</div>}>
+      <Suspense
+        fallback={
+          <Container>
+            <Wrapper>
+              <Rings
+                height="200"
+                width="200"
+                color="#9a9ae3"
+                radius="6"
+                wrapperStyle={{}}
+                visible={true}
+                ariaLabel="rings-loading"
+              />
+            </Wrapper>
+          </Container>
+        }
+      >
         <Outlet />
       </Suspense>
     </>

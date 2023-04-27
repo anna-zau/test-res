@@ -1,5 +1,7 @@
+const { PortfolioList } = require('components/PortfolioList/PortfolioList');
+
 const Portfolio = () => {
-  return <div>Portfolio</div>;
+  return <PortfolioList />;
 };
 
 export default Portfolio;

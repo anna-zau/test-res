@@ -1,4 +1,13 @@
 [
-  { "name": "HTML", "icon": "../assets/icons/html-icon.svg" },
-  { "name": "CSS", "icon": "../assets/icons/css-icon.svg" }
+  {
+    "name": "HTML",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, voluptate in? A fugit rerum et cum aliquid, modi minima, quasi, laborum temporibus praesentium dolor nobis",
+    "icon": "../assets/icons/html-icon.svg"
+  },
+  {
+    "name": "CSS",
+    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, voluptate in? A fugit rerum et cum aliquid, modi minima, quasi, laborum temporibus praesentium dolor nobis",
+
+    "icon": "../assets/icons/css-icon.svg"
+  }
 ]

@@ -26,3 +26,14 @@ export const Section = styled.section`
   padding-top: 60px;
   padding-bottom: 60px;
 `;
+
+export const Text = styled.p`
+  margin-top: 10px;
+
+  font-size: 15px;
+  line-height: 1.5;
+`;
+
+export const Button = styled.button`
+  margin-top: 15px;
+`;
