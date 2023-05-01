@@ -16,14 +16,9 @@ export const Wrapper = styled.div`
 `;
 
 export const List = styled.ul`
-  /* display: flex;
-  flex-wrap: wrap;
-  justify-content: center;
-  align-items: center; */
-
   display: grid;
-  grid-template-columns: repeat(3, 1fr);
-  grid-template-rows: repeat(2, 1fr);
+  grid-template-columns: repeat(4, 1fr);
+  grid-template-rows: repeat(3, 1fr);
   gap: 20px 25px;
 `;
 
@@ -37,12 +32,6 @@ export const Item = styled.li`
   border-radius: 50%;
 
   transition: all 250ms cubic-bezier(0.07, 0.54, 0.8, 0.53);
-
-  &:hover {
-    box-shadow: 0px 0px 15px 1px rgba(191, 184, 191, 1);
-    scale: 1.1;
-    color: #9a9ae3;
-  }
 `;
 
 export const Text = styled.p`

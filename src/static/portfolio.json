@@ -1,5 +1,44 @@
 [
-  { "name": "WebStudio", "link": "https://anna-zau.github.io/webstudio/" },
-  { "name": "IceCream", "link": "https://4106677.github.io/go_team_2/" },
-  { "name": "Filmoteka", "icon": "https://4106677.github.io/team-project-js/" }
+  {
+    "name": "WebStudio",
+    "link": "https://anna-zau.github.io/webstudio/",
+    "gitHub": "https://github.com/anna-zau/webstudio",
+    "tech": "HTML5, CSS, SCSS, JavaScript",
+    "description": "It is an adaptive website for a Design studio."
+  },
+  {
+    "name": "IceCream",
+    "description": "It is an adaptive site for an Ice Cream company,  where potential customers can learn about the company product and order the product.",
+    "link": "https://4106677.github.io/go_team_2/",
+    "gitHub": "https://github.com/4106677/go_team_2",
+    "tech": "HTML5, CSS, SCSS, JavaScript, Parsel"
+  },
+  {
+    "name": "Filmoteka",
+    "description": "It is an adaptive website with a functional layout for people, who want to find a trending movie for watching, add it to the queque for future or to mark as watched.",
+    "gitHub": "https://github.com/4106677/team-project-js",
+    "link": "https://4106677.github.io/team-project-js/",
+    "tech": "HTML5, CSS, SCSS, JavaScript, Parsel, Firebase"
+  },
+  {
+    "name": "Planner",
+    "description": "A website for making TO DO tasks, where user can add/delete/filter by status tasks or mark them as done.",
+    "gitHub": "https://github.com/anna-zau/react-planner-tasks",
+    "link": "https://anna-zau.github.io/react-planner-tasks/",
+    "tech": "React.js, Redux, styled-components, REST API"
+  },
+  {
+    "name": "Phonebook",
+    "description": "A website for saving contacts, where user can add, delete, edit contacts to his profile. Also only authorized users can access their data",
+    "gitHub": "https://github.com/anna-zau/goit-react-hw-08-phonebook",
+    "link": "https://anna-zau.github.io/goit-react-hw-08-phonebook/",
+    "tech": "React.js, Redux, styled-components, REST API"
+  },
+  {
+    "name": "Movies",
+    "description": "A website for searching popular movies and read it's description",
+    "gitHub": "https://github.com/anna-zau/goit-react-hw-05-movies",
+    "link": "https://anna-zau.github.io/goit-react-hw-05-movies/",
+    "tech": "React.js, Redux, styled-components, REST API"
+  }
 ]

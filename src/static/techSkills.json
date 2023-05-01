@@ -1,13 +1,47 @@
 [
   {
     "name": "HTML",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, voluptate in? A fugit rerum et cum aliquid, modi minima, quasi, laborum temporibus praesentium dolor nobis",
     "icon": "../assets/icons/html-icon.svg"
   },
   {
     "name": "CSS",
-    "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Quia, voluptate in? A fugit rerum et cum aliquid, modi minima, quasi, laborum temporibus praesentium dolor nobis",
+    "icon": "https://icons8.com/icon/7gdY5qNXaKC0/css3"
+  },
+  {
+    "name": "SCSS",
+    "icon": "https://icons8.com/icon/QBqFNfPPB2Kx/sass"
+  },
+  {
+    "name": "JavaScript",
+    "icon": "https://icons8.com/icon/tGvHBPJaKqEd/javascript"
+  },
+  {
+    "name": "React.js",
+    "icon": "https://icons8.com/icon/t5K2CR8feVdX/react"
+  },
 
-    "icon": "../assets/icons/css-icon.svg"
+  {
+    "name": "Redux",
+    "icon": "https://icons8.com/icon/jD-fJzVguBmw/redux"
+  },
+  {
+    "name": "Node.js",
+    "icon": "https://icons8.com/icon/hsPbhkOH4FMe/node-js"
+  },
+  {
+    "name": "MongoDB",
+    "icon": "https://icons8.com/icon/74402/mongodb"
+  },
+  {
+    "name": "Trello",
+    "icon": "https://icons8.com/icon/21049/trello"
+  },
+  {
+    "name": "Postman",
+    "icon": "https://icons8.com/icon/EPbEfEa7o8CB/postman-is-the-only-complete-api-development-environment"
+  },
+  {
+    "name": "Figma",
+    "icon": "https://icons8.com/icon/8gfeOoqrHqJU/figma"
   }
 ]
