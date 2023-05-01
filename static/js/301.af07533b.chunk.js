@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunktest_res=self.webpackChunktest_res||[]).push([[301],{301:function(e,s,t){t.r(s);var u=t(184);s.default=function(){return(0,u.jsx)("div",{})}}}]);
-//# sourceMappingURL=301.af07533b.chunk.js.map
